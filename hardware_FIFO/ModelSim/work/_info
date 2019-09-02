@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.5/examples
+vFIFO4_8
+!s110 1567410709
+!i10b 1
+!s100 NDHI6oTMO<79W>=;WPC521
+I:]aEez^TFWROXPmJfV0eC2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim
+w1567410705
+8C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/FIFO.v
+FC:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/FIFO.v
+L0 1
+Z2 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1567410709.000000
+!s107 C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/FIFO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/FIFO.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@f@i@f@o4_8
+vmemory_array
+!s110 1567410636
+!i10b 1
+!s100 3z[Em1[4PXWS8V[A7kUlf1
+Id5n;dRImZfJ2IgCj;58ae1
+R0
+R1
+w1567410633
+8C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/memory_array.v
+FC:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/memory_array.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1567410636.000000
+!s107 C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/memory_array.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/memory_array.v|
+!i113 0
+R3
+R4
+vreadPtr
+!s110 1567410690
+!i10b 1
+!s100 75][17Sbh?SGR58<=j7=i3
+IYYTFL;85:7N2cCJ8Kk^5D0
+R0
+R1
+w1567410687
+8C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/readPtr.v
+FC:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/readPtr.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1567410690.000000
+!s107 C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/readPtr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/readPtr.v|
+!i113 0
+R3
+R4
+nread@ptr
+vwritePtr
+!s110 1567410679
+!i10b 1
+!s100 9bh;gO>4EVCZ1_0P5bMhH1
+I7kQoB[>D5WAN[39fnX6n70
+R0
+R1
+w1567410677
+8C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/writePtr.v
+FC:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/writePtr.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1567410679.000000
+!s107 C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/writePtr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/ModelSim/writePtr.v|
+!i113 0
+R3
+R4
+nwrite@ptr
