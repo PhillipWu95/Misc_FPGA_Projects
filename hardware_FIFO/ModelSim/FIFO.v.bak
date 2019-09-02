@@ -48,7 +48,7 @@ readPtr readPtr_1 (
 .rPtr(rPtr)
 );
 
-memory_array memory_array_1(
+memory_array(
 .clk(clk),
 .wEnable(wEnable),
 .wPtr(wPtr),

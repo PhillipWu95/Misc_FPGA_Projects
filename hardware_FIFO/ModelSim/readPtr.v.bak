@@ -13,9 +13,6 @@ input rEnable;
 input empty;
 output reg [8:0] rPtr;
 
-initial 
-  rPtr = 9'd0;
-
 always @ (posedge clk) begin
   if(~rEnable || empty)
     rPtr <= rPtr;

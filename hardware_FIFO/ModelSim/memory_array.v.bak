@@ -28,7 +28,7 @@ assign data_out = memory[rPtr[7:0]];
 
 always @ (posedge clk) 
 begin
-  if(wEnable && !full) //if write enable and not full
+  if(wEnable && !full) //if write
     memory[wPtr[7:0]] <= data_in;
  // else
   //  memory[wPtr[7:0]] <= memory[wPtr[7:0]];
