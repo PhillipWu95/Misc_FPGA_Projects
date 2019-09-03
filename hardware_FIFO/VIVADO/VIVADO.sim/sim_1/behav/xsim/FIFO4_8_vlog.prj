@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../VIVADO.srcs/sources_1/new/memory_array.v" \
+"../../../../VIVADO.srcs/sources_1/new/readPtr.v" \
+"../../../../VIVADO.srcs/sources_1/new/writePtr.v" \
+"../../../../VIVADO.srcs/sources_1/new/FIFO.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

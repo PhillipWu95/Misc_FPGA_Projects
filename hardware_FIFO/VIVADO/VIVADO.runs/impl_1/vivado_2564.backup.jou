@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Sep  3 19:28:10 2019
+# Process ID: 2564
+# Current directory: C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/VIVADO/VIVADO.runs/impl_1
+# Command line: vivado.exe -log FIFO4_8.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FIFO4_8.tcl -notrace
+# Log file: C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/VIVADO/VIVADO.runs/impl_1/FIFO4_8.vdi
+# Journal file: C:/Users/Phillip/Documents/VIVADO/Misc_FPGA_Projects/hardware_FIFO/VIVADO/VIVADO.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source FIFO4_8.tcl -notrace
